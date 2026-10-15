@@ -1,7 +1,7 @@
 {
-  "version": "2.0.60",
-  "versionCode": 20060,
-  "url": "https://github.com/coffeedev/hamlogs-si/releases/tag/v2.0.60",
-  "apk": "https://github.com/coffeedev/hamlogs-si/releases/download/v2.0.60/HamLogs-Si-v2.0.60.apk",
-  "sha256": "b79c853c5ae96f6d9214c97e95ac18db08fcd5fb2e32179e79021fd12113da26"
+  "version": "2.0.62",
+  "versionCode": 20062,
+  "url": "https://github.com/coffeedev/hamlogs-si/releases/tag/v2.0.62",
+  "apk": "https://github.com/coffeedev/hamlogs-si/releases/download/v2.0.62/HamLogs-Si-v2.0.62.apk",
+  "sha256": "50ff901ffcb744b20cb723653b957c1091052c6e634abbd4d8ffad93d78d5119"
 }
