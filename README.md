@@ -24,8 +24,8 @@ Android 7.0 or newer. A radio needs a USB cable with an OTG adapter.
 
 Each release has a `.sha256` file. To compare it with your download:
 
-- Windows: `certutil -hashfile HamLogs-Si-v2.0.67.apk SHA256`
-- Linux/macOS: `sha256sum HamLogs-Si-v2.0.67.apk`
+- Windows: `certutil -hashfile HamLogs-Si-v2.0.68.apk SHA256`
+- Linux/macOS: `sha256sum HamLogs-Si-v2.0.68.apk`
 
 Every release is signed with the same key. Its certificate SHA-256 fingerprint is:
 
